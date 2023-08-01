@@ -1,0 +1,4 @@
+# Configuration for AnvilUI Plugin
+repair-cost-money: 50000
+rename-cost: 30000
+repair-cost-xp: 16
