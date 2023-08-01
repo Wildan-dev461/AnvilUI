@@ -4,7 +4,7 @@ api: [5.0.0]
 author: Will
 main: Will\AnvilUI
 description: AnvilUI plugin for repairing and renaming tools and armor using EconomyAPI.
-depend: [EconomyAPI, FormAPI]
+softdepend: [EconomyAPI, FormAPI]
 
 commands:
   anvilui:
